@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ftauscheck, a brazilian Radio Frequency Engineer who likes to work with code.
 - 👀 I’m interested in PHP, MySQL, Arduino (and ESP), Python and *nix systems.
 - 🌱 I’m currently learning Python and Data Science.
-- 💞️ I’m looking to collaborate on any project with basic requirements.
 - 📫 You can contact me on Twitter (https://twitter.com/ftauscheck)
 
 <!---
